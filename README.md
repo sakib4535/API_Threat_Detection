@@ -3,6 +3,10 @@
 ## **Project Overview**
 
 This project addresses the critical challenge of detecting Advanced Persistent Threats (APTs), a sophisticated and stealthy form of cyberattack. APTs aim to infiltrate and remain undetected within systems over extended periods, leveraging advanced techniques to evade conventional security measures. By employing machine learning methodologies, this framework uncovers anomalies and suspicious behaviors indicative of APT activities. The project synthesizes feature engineering, robust preprocessing, algorithmic design, and detailed evaluation metrics to create a resilient detection system.
+![corr](https://github.com/user-attachments/assets/034eb9a7-34dc-4d0b-91d0-2515639155e1)
+![apt1](https://github.com/user-attachments/assets/dd06dff9-b2ce-4030-8bb0-c554a965d900)
+
+
 
 ## **Research Context and Significance**
 
@@ -18,6 +22,8 @@ Key studies highlight the role of features such as session durations, packet int
 **Feature Relevance Hypothesis:** Temporal, packet-level, transaction-level, and behavioral features significantly improve the detection accuracy of APTs.
 **Algorithm Synergy Hypothesis:** Combining linear models (Logistic Regression) with non-linear models (Decision Trees) enhances the robustness and reliability of APT detection systems.
 **Performance Benchmark Hypothesis:** The proposed model achieves superior detection metrics compared to traditional heuristic-based approaches.
+
+![dur](https://github.com/user-attachments/assets/f66e3559-ce43-4d86-afac-bb40b047d874)
 
 ## **Key Components**
 
@@ -37,6 +43,8 @@ synack & ackdat: Exposes anomalies in the TCP handshake process, revealing poten
 ### **Behavioral Features:**
 **tcprtt** (TCP Round Trip Time): High RTT values may suggest intermediary attack stages.
 Encoded Categorical Features (proto, state, service): Encapsulates protocol-specific behavior to uncover suspicious patterns.
+
+![plot](https://github.com/user-attachments/assets/f5cd2c32-5f13-4bfb-abf0-ca956b710d25)
 
 ## **2. Algorithms Used**
 ### Logistic Regression:
@@ -71,6 +79,10 @@ Balance interpretability with modeling complexity.
 ## **5. Results Visualization**
 ROC Curve: Demonstrates the model's ability to distinguish between benign and malicious activities.
 Confusion Matrix: Illustrates classification performance, providing actionable insights for cybersecurity teams.
+
+![result2](https://github.com/user-attachments/assets/531d5e77-e996-433a-9861-534b8d172bea)
+![result1](https://github.com/user-attachments/assets/e455ae90-1e16-46d5-b16f-b2ca5f676ee9)
+
 
 Relevance to Advanced Threat Detection
 Implications for Industry
