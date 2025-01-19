@@ -1,5 +1,5 @@
 # Advanced Persistent Threat (APT) Detection Framework
-[!as](https://github.com/sakib4535/API_Threat_Detection/blob/main/as.webp)
+![as](https://github.com/sakib4535/API_Threat_Detection/blob/main/as.webp)
 
 ## **Project Overview**
 
