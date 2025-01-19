@@ -34,8 +34,8 @@ synack & ackdat: Exposes anomalies in the TCP handshake process, revealing poten
 - **trans_depth:** Flags probing or deep scanning behaviors.
 - **res_bdy_len:** Identifies unusual response payloads that could indicate data exfiltration attempts.
 
-###**Behavioral Features:**
-tcprtt (TCP Round Trip Time): High RTT values may suggest intermediary attack stages.
+### **Behavioral Features:**
+**tcprtt** (TCP Round Trip Time): High RTT values may suggest intermediary attack stages.
 Encoded Categorical Features (proto, state, service): Encapsulates protocol-specific behavior to uncover suspicious patterns.
 
 ## **2. Algorithms Used**
