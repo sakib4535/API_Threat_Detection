@@ -30,7 +30,7 @@ Feature engineering is pivotal in capturing nuanced network behaviors that diffe
 - **sttl & dttl**(Source/Destination TTL): Highlights mismatches in TTL values indicative of routing irregularities or reconnaissance attempts.
 synack & ackdat: Exposes anomalies in the TCP handshake process, revealing potential session hijacking or scanning activities.
 
-###**Transaction-Level Features:**
+### **Transaction-Level Features:**
 - **trans_depth:** Flags probing or deep scanning behaviors.
 - **res_bdy_len:** Identifies unusual response payloads that could indicate data exfiltration attempts.
 
@@ -38,7 +38,7 @@ synack & ackdat: Exposes anomalies in the TCP handshake process, revealing poten
 tcprtt (TCP Round Trip Time): High RTT values may suggest intermediary attack stages.
 Encoded Categorical Features (proto, state, service): Encapsulates protocol-specific behavior to uncover suspicious patterns.
 
-2. Algorithms Used
+## **2. Algorithms Used**
 ### Logistic Regression:
 Purpose: Exploits linear separability in feature spaces.
 Advantages:
