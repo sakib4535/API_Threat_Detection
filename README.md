@@ -80,8 +80,11 @@ Balance interpretability with modeling complexity.
 ROC Curve: Demonstrates the model's ability to distinguish between benign and malicious activities.
 Confusion Matrix: Illustrates classification performance, providing actionable insights for cybersecurity teams.
 
-![result2](https://github.com/user-attachments/assets/531d5e77-e996-433a-9861-534b8d172bea)
-![result1](https://github.com/user-attachments/assets/e455ae90-1e16-46d5-b16f-b2ca5f676ee9)
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/531d5e77-e996-433a-9861-534b8d172bea" alt="result2" width="45%" />
+  <img src="https://github.com/user-attachments/assets/e455ae90-1e16-46d5-b16f-b2ca5f676ee9" alt="result1" width="45%" />
+</p>
+
 
 
 Relevance to Advanced Threat Detection
