@@ -107,7 +107,6 @@ Use the Feature_Engineering_and_Processing.ipynb notebook for data preprocessing
 Train models via models_deploy_APTDetection.ipynb.
 ## **Evaluation:**
 
-
 Evaluate performance using the provided evaluation scripts.
 Visualize results through the ROC Curve and Confusion Matrix.
 Future Directions
@@ -115,10 +114,12 @@ Real-Time Integration: Deploy the model in live network monitoring setups.
 Transfer Learning: Adapt the model to detect novel attack patterns.
 Explainability Enhancements: Integrate feature attribution techniques to aid interpretability.
 Hybrid Approaches: Combine this framework with anomaly detection models for improved generalization.
-Contributors
-Your Name: Principal Investigator
-Team Members: (Add names and roles)
-Acknowledgments
+
+## Contributors
+Team Members: Hasnain Imtiaz & Shakhauat Hossain Sumon
+
+## Acknowledgments
 This project leverages the UNSW-NB15 dataset for APT detection. Special thanks to the dataset creators and the broader research community for their invaluable contributions to cybersecurity.
-License
+
+## License
 This project is licensed under the MIT License. See LICENSE for more details.
