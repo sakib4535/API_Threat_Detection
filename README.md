@@ -5,8 +5,7 @@
 This project addresses the critical challenge of detecting Advanced Persistent Threats (APTs), a sophisticated and stealthy form of cyberattack. APTs aim to infiltrate and remain undetected within systems over extended periods, leveraging advanced techniques to evade conventional security measures. By employing machine learning methodologies, this framework uncovers anomalies and suspicious behaviors indicative of APT activities. The project synthesizes feature engineering, robust preprocessing, algorithmic design, and detailed evaluation metrics to create a resilient detection system.
 
 ![apt1](https://github.com/user-attachments/assets/dd06dff9-b2ce-4030-8bb0-c554a965d900)
-
-
+![corr](https://github.com/sakib4535/API_Threat_Detection/blob/main/corr.png)
 
 ## **Research Context and Significance**
 
